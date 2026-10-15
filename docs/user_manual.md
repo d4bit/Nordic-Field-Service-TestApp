@@ -69,3 +69,14 @@ You can the system to send the customer an SMS with the arrival window when an a
 
 - AC 1: System sends the customer an SMS
 - AC 2: Bulk safe
+
+## See all unscheduled work orders on the Gantt and schedule them to technicians
+You can see all unscheduled work orders on the Gantt and schedule them to technicians by skill and territory, so that the work gets done faster and with fewer mistakes.
+
+**Steps**
+1. Open the record in Salesforce.
+2. Work as usual — the behaviour described below happens automatically.
+3. Check the result described below.
+
+- AC 1: See all unscheduled work orders on the Gantt
+- AC 2: Bulk safe
