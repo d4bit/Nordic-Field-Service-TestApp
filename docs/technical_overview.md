@@ -22,3 +22,8 @@
 - `SeeUnscheduledWorkService` (classes)
 - `SeeUnscheduledWorkServiceTest` (classes)
 - `ServiceAppointmentTrigger` (triggers)
+
+## US-109 Appointments are never scheduled outside the technician’s working hours
+- `AppointmentsScheduledOutsideService` (classes)
+- `AppointmentsScheduledOutsideServiceTest` (classes)
+- `ServiceAppointmentTrigger` (triggers)
