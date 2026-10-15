@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <name>Weekly report of repeat visits per appli</name>
+    <format>Summary</format>
+    <reportType>Asset</reportType>
+    <scope>organization</scope>
+</Report>
