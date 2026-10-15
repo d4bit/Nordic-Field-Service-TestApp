@@ -21,3 +21,7 @@ Salesforce platform with `ServiceAppointment`, `WorkOrder`, `Case`, `Asset`, `Pr
 - **US-117** Active customers and their appliances are migrated from the legacy ServiceMax system — data migration
 - **US-118** Open work orders and the last 24 months of service history are migrated — data migration
 - **US-119** Duplicate customers are merged before go-live — data migration
+
+### FT-130 Security and Access
+- **US-131** See work orders in their own territory — security
+- **US-132** Separate permission sets for dispatchers and service managers — security
