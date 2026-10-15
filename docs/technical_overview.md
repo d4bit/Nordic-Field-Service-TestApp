@@ -47,3 +47,7 @@
 - `scripts/data/DuplicateCustomersMerged-mapping.md`
 - `scripts/data/DuplicateCustomersMerged-upsert.sh`
 - `scripts/data/templates/DuplicateCustomersMerged.csv`
+
+## US-122 Spare parts stock is checked in real time against the SAP warehouse API
+- `SAPSparePartsStockClient` (classes)
+- `SAPSparePartsStockClientTest` (classes)
