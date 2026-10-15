@@ -37,3 +37,8 @@
 - `scripts/data/ActiveCustomersAppliances-mapping.md`
 - `scripts/data/ActiveCustomersAppliances-upsert.sh`
 - `scripts/data/templates/ActiveCustomersAppliances.csv`
+
+## US-114 Select a reason when a job cannot be completed
+- `SelectReasonJobService` (classes)
+- `SelectReasonJobServiceTest` (classes)
+- `ServiceAppointmentTrigger` (triggers)

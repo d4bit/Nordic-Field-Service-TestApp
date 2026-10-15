@@ -117,13 +117,13 @@ You can all active customers (approx. 60,000) and their appliances to be migrate
 - AC 3: Re-runnable load
 - AC 4: Counts reconcile
 
-## Capture the customer signature and photos before completing a job
-You can capture the customer signature and photos before completing a job, so that the work gets done faster and with fewer mistakes.
+## Select a reason when a job cannot be completed
+You can select a reason and the system should create a follow-up appointment, when a job cannot be completed, so that the work gets done faster and with fewer mistakes.
 
 **Steps**
 1. Open the record in Salesforce.
 2. Work as usual — the behaviour described below happens automatically.
 3. Check the result described below.
 
-- AC 1: Capture the customer signature and photos
+- AC 1: Select a reason when a job cannot be completed
 - AC 2: Bulk safe
