@@ -55,3 +55,7 @@
 ## US-123 Completed work orders are sent to SAP for invoicing within 15 minutes
 - `SAPCompletedWorkOrdersClient` (classes)
 - `SAPCompletedWorkOrdersClientTest` (classes)
+
+## US-124 Integration retries and alerts the support team if SAP is unavailable
+- `SAPIntegrationRetriesAlertsClient` (classes)
+- `SAPIntegrationRetriesAlertsClientTest` (classes)
