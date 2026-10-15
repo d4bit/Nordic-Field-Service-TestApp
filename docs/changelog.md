@@ -1,5 +1,8 @@
 # Changelog
 
+- 2026-10-15 — US-124 Integration retries and alerts the support team if SAP is unavailable
+- 2026-10-15 — US-123 Completed work orders are sent to SAP for invoicing within 15 minutes
+- 2026-10-15 — US-122 Spare parts stock is checked in real time against the SAP warehouse API
 - 2026-10-15 — US-119 Duplicate customers are merged before go-live
 - 2026-10-15 — US-114 Select a reason when a job cannot be completed
 - 2026-10-15 — US-117 Active customers and their appliances are migrated from the legacy ServiceMax system

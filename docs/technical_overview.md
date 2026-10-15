@@ -47,3 +47,15 @@
 - `scripts/data/DuplicateCustomersMerged-mapping.md`
 - `scripts/data/DuplicateCustomersMerged-upsert.sh`
 - `scripts/data/templates/DuplicateCustomersMerged.csv`
+
+## US-122 Spare parts stock is checked in real time against the SAP warehouse API
+- `SAPSparePartsStockClient` (classes)
+- `SAPSparePartsStockClientTest` (classes)
+
+## US-123 Completed work orders are sent to SAP for invoicing within 15 minutes
+- `SAPCompletedWorkOrdersClient` (classes)
+- `SAPCompletedWorkOrdersClientTest` (classes)
+
+## US-124 Integration retries and alerts the support team if SAP is unavailable
+- `SAPIntegrationRetriesAlertsClient` (classes)
+- `SAPIntegrationRetriesAlertsClientTest` (classes)
