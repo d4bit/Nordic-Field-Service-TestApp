@@ -51,3 +51,7 @@
 ## US-122 Spare parts stock is checked in real time against the SAP warehouse API
 - `SAPSparePartsStockClient` (classes)
 - `SAPSparePartsStockClientTest` (classes)
+
+## US-123 Completed work orders are sent to SAP for invoicing within 15 minutes
+- `SAPCompletedWorkOrdersClient` (classes)
+- `SAPCompletedWorkOrdersClientTest` (classes)
