@@ -16,3 +16,7 @@ Salesforce platform with `ServiceAppointment`, `WorkOrder`, `Case`, `Asset`, `Pr
 - **US-107** See all unscheduled work orders on the Gantt and schedule them to technicians — development
 - **US-108** System sends the customer an SMS with the arrival window — configuration
 - **US-109** Appointments are never scheduled outside the technician’s working hours — development
+
+### FT-126 Reporting
+- **US-127** Dashboard for service managers — reporting
+- **US-128** Weekly report of repeat visits per appliance model is emailed to the quality team — reporting
