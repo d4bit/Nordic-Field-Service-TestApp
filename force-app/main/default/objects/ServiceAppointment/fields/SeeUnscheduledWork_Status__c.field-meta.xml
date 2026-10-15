@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SeeUnscheduledWork_Status__c</fullName>
+    <label>SeeUnscheduledWork Status</label>
+    <type>Text</type>
+    <length>80</length>
+    <description>US-107: See all unscheduled work orders on the Gantt and schedule them to technicians</description>
+</CustomField>
