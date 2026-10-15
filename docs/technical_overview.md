@@ -42,3 +42,8 @@
 - `SelectReasonJobService` (classes)
 - `SelectReasonJobServiceTest` (classes)
 - `ServiceAppointmentTrigger` (triggers)
+
+## US-119 Duplicate customers are merged before go-live
+- `scripts/data/DuplicateCustomersMerged-mapping.md`
+- `scripts/data/DuplicateCustomersMerged-upsert.sh`
+- `scripts/data/templates/DuplicateCustomersMerged.csv`
