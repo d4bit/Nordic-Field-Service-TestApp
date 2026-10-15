@@ -127,3 +127,15 @@ You can select a reason and the system should create a follow-up appointment, wh
 
 - AC 1: Select a reason when a job cannot be completed
 - AC 2: Bulk safe
+
+## Open work orders and the last 24 months of service history are migrated
+You can open work orders and the last 24 months of service history to be migrated with their original reference numbers, so that no customer history is lost when we switch systems.
+
+**Steps**
+1. Open the record in Salesforce.
+2. Work as usual — the behaviour described below happens automatically.
+3. Check the result described below.
+
+- AC 1: Open work orders and the last 24 months of service
+- AC 2: Re-runnable load
+- AC 3: Counts reconcile
