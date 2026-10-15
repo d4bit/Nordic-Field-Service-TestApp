@@ -27,3 +27,8 @@
 - `AppointmentsScheduledOutsideService` (classes)
 - `AppointmentsScheduledOutsideServiceTest` (classes)
 - `ServiceAppointmentTrigger` (triggers)
+
+## US-112 View the job, appliance history and parts list offline
+- `ViewJobApplianceService` (classes)
+- `ViewJobApplianceServiceTest` (classes)
+- `WorkOrderTrigger` (triggers)
