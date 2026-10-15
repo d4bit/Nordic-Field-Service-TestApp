@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SelectReasonJob_Status__c</fullName>
+    <label>SelectReasonJob Status</label>
+    <type>Text</type>
+    <length>80</length>
+    <description>US-114: Select a reason when a job cannot be completed</description>
+</CustomField>
