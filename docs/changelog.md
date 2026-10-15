@@ -1,5 +1,6 @@
 # Changelog
 
+- 2026-10-15 — US-108 System sends the customer an SMS with the arrival window
 - 2026-10-15 — US-105 Work orders created outside business hours are flagged for next-day dispatch
 - 2026-10-15 — US-104 Work order has a priority derived from the appliance warranty status
 - 2026-10-15 — US-103 Create a work order from a case in one click
