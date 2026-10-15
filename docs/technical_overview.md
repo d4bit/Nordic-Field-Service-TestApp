@@ -8,3 +8,9 @@
 
 ## US-103 Create a work order from a case in one click
 - Scripts under `scripts/`
+
+## US-104 Work order has a priority derived from the appliance warranty status
+- Scripts under `scripts/`
+
+## US-105 Work orders created outside business hours are flagged for next-day dispatch
+- Scripts under `scripts/`
