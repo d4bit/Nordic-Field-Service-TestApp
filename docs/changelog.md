@@ -1,6 +1,6 @@
 # Changelog
 
-- 2026-10-15 — US-118 Open work orders and the last 24 months of service history are migrated
+- 2026-10-15 — US-119 Duplicate customers are merged before go-live
 - 2026-10-15 — US-114 Select a reason when a job cannot be completed
 - 2026-10-15 — US-117 Active customers and their appliances are migrated from the legacy ServiceMax system
 - 2026-10-15 — US-112 View the job, appliance history and parts list offline

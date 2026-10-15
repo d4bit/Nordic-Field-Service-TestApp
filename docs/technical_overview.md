@@ -43,7 +43,7 @@
 - `SelectReasonJobServiceTest` (classes)
 - `ServiceAppointmentTrigger` (triggers)
 
-## US-118 Open work orders and the last 24 months of service history are migrated
-- `scripts/data/OpenWorkOrders-mapping.md`
-- `scripts/data/OpenWorkOrders-upsert.sh`
-- `scripts/data/templates/OpenWorkOrders.csv`
+## US-119 Duplicate customers are merged before go-live
+- `scripts/data/DuplicateCustomersMerged-mapping.md`
+- `scripts/data/DuplicateCustomersMerged-upsert.sh`
+- `scripts/data/templates/DuplicateCustomersMerged.csv`
