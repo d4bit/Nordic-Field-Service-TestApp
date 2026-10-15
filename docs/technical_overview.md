@@ -62,3 +62,6 @@
 
 ## US-127 Dashboard for service managers
 - Scripts under `scripts/`
+
+## US-128 Weekly report of repeat visits per appliance model is emailed to the quality team
+- Scripts under `scripts/`
