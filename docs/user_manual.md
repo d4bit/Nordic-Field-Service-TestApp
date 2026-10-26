@@ -171,3 +171,25 @@ You can the integration to retry and alert the support team, if SAP is unavailab
 
 - AC 1: Integration retries and alerts the support team
 - AC 2: Failure handling
+
+## Dashboard for service managers
+You can a dashboard with first-time fix rate, average travel time and SLA compliance per territory, so that I can act on facts instead of spreadsheets.
+
+**Steps**
+1. Open the record in Salesforce.
+2. Open the dashboard from the Dashboards tab.
+3. Check the result described below.
+
+- AC 1: Dashboard for service managers
+- AC 2: Per-team view
+
+## Weekly report of repeat visits per appliance model is emailed to the quality team
+You can A weekly report of repeat visits per appliance model to be emailed to the quality team, so that I can act on facts instead of spreadsheets.
+
+**Steps**
+1. Open the record in Salesforce.
+2. Open the dashboard from the Dashboards tab.
+3. Check the result described below.
+
+- AC 1: Weekly report of repeat visits per appliance model
+- AC 2: Per-team view
