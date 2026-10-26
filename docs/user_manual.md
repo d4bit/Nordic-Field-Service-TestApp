@@ -80,3 +80,15 @@ You can see all unscheduled work orders on the Gantt and schedule them to techni
 
 - AC 1: See all unscheduled work orders on the Gantt
 - AC 2: Bulk safe
+
+## Appointments are never scheduled outside the technician’s working hours
+You can appointments to never be scheduled outside the technician’s working hours, so that the work gets done faster and with fewer mistakes.
+
+**Steps**
+1. Open the record in Salesforce.
+2. Work as usual — the behaviour described below happens automatically.
+3. Check the result described below.
+
+- AC 1: Appointments are never scheduled outside
+- AC 2: Negative path
+- AC 3: Bulk safe
