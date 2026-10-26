@@ -39,3 +39,8 @@
 - `SelectReasonJobService` (classes)
 - `SelectReasonJobServiceTest` (classes)
 - `ServiceAppointmentTrigger` (triggers)
+
+## US-118 Open work orders and the last 24 months of service history are migrated
+- `scripts/data/OpenWorkOrders-mapping.md`
+- `scripts/data/OpenWorkOrders-upsert.sh`
+- `scripts/data/templates/OpenWorkOrders.csv`
