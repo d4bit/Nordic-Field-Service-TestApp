@@ -6,5 +6,5 @@
 ## US-132 Separate permission sets for dispatchers and service managers
 - Scripts under `scripts/`
 
-## US-103 Create a work order from a case in one click
+## US-104 Work order has a priority derived from the appliance warranty status
 - Scripts under `scripts/`
