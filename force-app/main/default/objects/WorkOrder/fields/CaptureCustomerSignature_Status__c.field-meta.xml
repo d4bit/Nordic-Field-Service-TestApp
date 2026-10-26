@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CaptureCustomerSignature_Status__c</fullName>
+    <label>CaptureCustomerSignature Status</label>
+    <type>Text</type>
+    <length>80</length>
+    <description>US-113: Capture the customer signature and photos before completing a job</description>
+</CustomField>

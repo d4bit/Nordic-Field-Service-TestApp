@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ViewJobAppliance_Status__c</fullName>
+    <label>ViewJobAppliance Status</label>
+    <type>Text</type>
+    <length>80</length>
+    <description>US-112: View the job, appliance history and parts list offline</description>
+</CustomField>
