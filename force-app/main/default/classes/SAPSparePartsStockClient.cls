@@ -8,16 +8,9 @@ public with sharing class SAPSparePartsStockClient {
         HttpRequest req = new HttpRequest();
         req.setEndpoint('callout:SAP_API' + path);
         req.setMethod(body == null ? 'GET' : 'POST');
-        req.setTimeout(TIMEOUT_MS);
         if (body != null) {
             req.setBody(body);
         }
-        try {
-            return new Http().send(req);
-        } catch (CalloutException e) {
-            ErrorLogger.log(e, 'SAPSparePartsStockClient.send', path);
-            IntegrationOutbox.enqueueRetry(path, body);
-            return null;
-        }
+        return new Http().send(req);
     }
 }
