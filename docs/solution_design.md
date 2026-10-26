@@ -25,3 +25,7 @@ Salesforce platform with `ServiceAppointment`, `WorkOrder`, `Case`, `Asset`, `Pr
 ### FT-126 Reporting
 - **US-127** Dashboard for service managers — reporting
 - **US-128** Weekly report of repeat visits per appliance model is emailed to the quality team — reporting
+
+### FT-130 Security and Access
+- **US-131** See work orders in their own territory — security
+- **US-132** Separate permission sets for dispatchers and service managers — security
