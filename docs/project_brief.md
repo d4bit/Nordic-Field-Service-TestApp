@@ -1,6 +1,6 @@
-# Project brief — Nordic Field Service
+# Project brief — Nordic Field Service Requirements
 
-_Derived from **Nordic Appliance Care - Salesforce Field Service Requirements Version 1.2 - Prepared for the implementation partner** (field-service-requirements.pdf)._
+_Derived from **Nordic Appliance Care - Salesforce Field Service Requirements Version 1.2 - Prepared for the implementation partner** (Nordic-Field-Service-Requirements.pdf)._
 
 ## Goal
 Nordic Appliance Care repairs household appliances across Sweden and Norway. Today technicians receive jobs by phone and paper, and customers have no visibility of when a technician will arrive. The company wants to run its service operation on Salesforce Field Service.
@@ -37,7 +37,6 @@ Nordic Appliance Care repairs household appliances across Sweden and Norway. Tod
 ## Integrations
 - ServiceMax
 - SAP
-- ERP
 
 ## Non-functional requirements
 - Technicians must be able to view the job, appliance history and parts list offline in the Field Service mobile app
