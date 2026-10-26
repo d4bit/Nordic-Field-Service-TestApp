@@ -1,5 +1,5 @@
 # US-119: Duplicate customers are merged before go-live
-**Status:** Release Ready · **Type:** story · **Category:** data migration · **Points:** 5 · **Sprint:** 4
+**Status:** Release Ready · **Type:** story · **Category:** data migration · **Points:** 3 · **Sprint:** 1
 
 ## Summary
 As a migration lead, I want duplicate customers to be merged before go-live. Matching rules are TBD with the data owner, so that no customer history is lost when we switch systems.
