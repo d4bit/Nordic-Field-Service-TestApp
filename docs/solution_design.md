@@ -29,3 +29,8 @@ Salesforce platform with `ServiceAppointment`, `WorkOrder`, `Case`, `Asset`, `Pr
 ### FT-130 Security and Access
 - **US-131** See work orders in their own territory — security
 - **US-132** Separate permission sets for dispatchers and service managers — security
+
+### FT-121 Integrations
+- **US-122** Spare parts stock is checked in real time against the SAP warehouse API — integration
+- **US-123** Completed work orders are sent to SAP for invoicing within 15 minutes — integration
+- **US-124** Integration retries and alerts the support team if SAP is unavailable — integration
