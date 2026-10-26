@@ -58,3 +58,14 @@ You can work orders created outside business hours to be flagged for next-day di
 
 - AC 1: Work orders created outside business hours
 - AC 2: Bulk safe
+
+## System sends the customer an SMS with the arrival window
+You can the system to send the customer an SMS with the arrival window when an appointment is dispatched, so that the process runs with fewer manual steps.
+
+**Steps**
+1. Open the record in Salesforce.
+2. Work as usual — the behaviour described below happens automatically.
+3. Check the result described below.
+
+- AC 1: System sends the customer an SMS
+- AC 2: Bulk safe
