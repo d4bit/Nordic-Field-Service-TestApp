@@ -149,3 +149,14 @@ You can completed work orders to be sent to SAP for invoicing within 15 minutes,
 - AC 1: Completed work orders are sent to SAP for invoicing
 - AC 2: Timing
 - AC 3: Failure handling
+
+## Spare parts stock is checked in real time against the SAP warehouse API
+You can spare parts stock to be checked in real time against the SAP warehouse API before a part is reserved, so that nobody has to re-enter data between systems.
+
+**Steps**
+1. Open the record in Salesforce.
+2. Work as usual — the behaviour described below happens automatically.
+3. Check the result described below.
+
+- AC 1: Spare parts stock is checked in real time against
+- AC 2: Failure handling
