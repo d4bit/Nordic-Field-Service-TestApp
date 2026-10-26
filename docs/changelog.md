@@ -1,5 +1,7 @@
 # Changelog
 
+- 2026-10-26 — US-124 Integration retries and alerts the support team if SAP is unavailable
+- 2026-10-26 — US-122 Spare parts stock is checked in real time against the SAP warehouse API
 - 2026-10-26 — US-123 Completed work orders are sent to SAP for invoicing within 15 minutes
 - 2026-10-26 — US-118 Open work orders and the last 24 months of service history are migrated
 - 2026-10-26 — US-114 Select a reason when a job cannot be completed
