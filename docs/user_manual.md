@@ -182,3 +182,27 @@ You can a dashboard with first-time fix rate, average travel time and SLA compli
 
 - AC 1: Dashboard for service managers
 - AC 2: Per-team view
+
+## Weekly report of repeat visits per appliance model is emailed to the quality team
+You can A weekly report of repeat visits per appliance model to be emailed to the quality team, so that I can act on facts instead of spreadsheets.
+
+**Steps**
+1. Open the record in Salesforce.
+2. Open the dashboard from the Dashboards tab.
+3. Check the result described below.
+
+- AC 1: Weekly report of repeat visits per appliance model
+- AC 2: Per-team view
+
+## Active customers and their appliances are migrated from the legacy ServiceMax system
+You can all active customers (approx. 60,000) and their appliances to be migrated from the legacy ServiceMax system, so that no customer history is lost when we switch systems.
+
+**Steps**
+1. Open the record in Salesforce.
+2. Work as usual — the behaviour described below happens automatically.
+3. Check the result described below.
+
+- AC 1: Active customers and their appliances are migrated
+- AC 2: Allowed values
+- AC 3: Re-runnable load
+- AC 4: Counts reconcile
