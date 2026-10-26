@@ -11,3 +11,6 @@
 
 ## US-105 Work orders created outside business hours are flagged for next-day dispatch
 - Scripts under `scripts/`
+
+## US-108 System sends the customer an SMS with the arrival window
+- Scripts under `scripts/`
