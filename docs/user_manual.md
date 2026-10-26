@@ -193,3 +193,28 @@ You can A weekly report of repeat visits per appliance model to be emailed to th
 
 - AC 1: Weekly report of repeat visits per appliance model
 - AC 2: Per-team view
+
+## Active customers and their appliances are migrated from the legacy ServiceMax system
+You can all active customers (approx. 60,000) and their appliances to be migrated from the legacy ServiceMax system, so that no customer history is lost when we switch systems.
+
+**Steps**
+1. Open the record in Salesforce.
+2. Work as usual — the behaviour described below happens automatically.
+3. Check the result described below.
+
+- AC 1: Active customers and their appliances are migrated
+- AC 2: Allowed values
+- AC 3: Re-runnable load
+- AC 4: Counts reconcile
+
+## Duplicate customers are merged before go-live
+You can duplicate customers to be merged before go-live. Matching rules are TBD with the data owner, so that no customer history is lost when we switch systems.
+
+**Steps**
+1. Open the record in Salesforce.
+2. Work as usual — the behaviour described below happens automatically.
+3. Check the result described below.
+
+- AC 1: Duplicate customers are merged before go-live
+- AC 2: Re-runnable load
+- AC 3: Counts reconcile

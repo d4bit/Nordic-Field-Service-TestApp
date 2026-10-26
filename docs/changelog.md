@@ -1,5 +1,7 @@
 # Changelog
 
+- 2026-10-26 — US-119 Duplicate customers are merged before go-live
+- 2026-10-26 — US-117 Active customers and their appliances are migrated from the legacy ServiceMax system
 - 2026-10-26 — US-128 Weekly report of repeat visits per appliance model is emailed to the quality team
 - 2026-10-26 — US-127 Dashboard for service managers
 - 2026-10-26 — US-124 Integration retries and alerts the support team if SAP is unavailable
