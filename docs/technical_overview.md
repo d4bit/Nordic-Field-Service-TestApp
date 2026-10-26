@@ -52,3 +52,7 @@
 ## US-122 Spare parts stock is checked in real time against the SAP warehouse API
 - `SAPSparePartsStockClient` (classes)
 - `SAPSparePartsStockClientTest` (classes)
+
+## US-124 Integration retries and alerts the support team if SAP is unavailable
+- `SAPIntegrationRetriesAlertsClient` (classes)
+- `SAPIntegrationRetriesAlertsClientTest` (classes)

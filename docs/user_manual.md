@@ -160,3 +160,14 @@ You can spare parts stock to be checked in real time against the SAP warehouse A
 
 - AC 1: Spare parts stock is checked in real time against
 - AC 2: Failure handling
+
+## Integration retries and alerts the support team if SAP is unavailable
+You can the integration to retry and alert the support team, if SAP is unavailable, so that nobody has to re-enter data between systems.
+
+**Steps**
+1. Open the record in Salesforce.
+2. Work as usual — the behaviour described below happens automatically.
+3. Check the result described below.
+
+- AC 1: Integration retries and alerts the support team
+- AC 2: Failure handling
