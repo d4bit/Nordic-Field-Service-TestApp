@@ -56,3 +56,6 @@
 ## US-124 Integration retries and alerts the support team if SAP is unavailable
 - `SAPIntegrationRetriesAlertsClient` (classes)
 - `SAPIntegrationRetriesAlertsClientTest` (classes)
+
+## US-127 Dashboard for service managers
+- Scripts under `scripts/`

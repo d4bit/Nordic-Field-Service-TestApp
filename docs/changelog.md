@@ -1,5 +1,6 @@
 # Changelog
 
+- 2026-10-26 — US-127 Dashboard for service managers
 - 2026-10-26 — US-124 Integration retries and alerts the support team if SAP is unavailable
 - 2026-10-26 — US-122 Spare parts stock is checked in real time against the SAP warehouse API
 - 2026-10-26 — US-123 Completed work orders are sent to SAP for invoicing within 15 minutes
