@@ -21,3 +21,7 @@ Salesforce platform with `ServiceAppointment`, `WorkOrder`, `Case`, `Asset`, `Pr
 - **US-117** Active customers and their appliances are migrated from the legacy ServiceMax system — data migration
 - **US-118** Open work orders and the last 24 months of service history are migrated — data migration
 - **US-119** Duplicate customers are merged before go-live — data migration
+
+### FT-126 Reporting
+- **US-127** Dashboard for service managers — reporting
+- **US-128** Weekly report of repeat visits per appliance model is emailed to the quality team — reporting
