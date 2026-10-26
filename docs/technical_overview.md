@@ -62,3 +62,8 @@
 
 ## US-128 Weekly report of repeat visits per appliance model is emailed to the quality team
 - Scripts under `scripts/`
+
+## US-117 Active customers and their appliances are migrated from the legacy ServiceMax system
+- `scripts/data/ActiveCustomersAppliances-mapping.md`
+- `scripts/data/ActiveCustomersAppliances-upsert.sh`
+- `scripts/data/templates/ActiveCustomersAppliances.csv`
