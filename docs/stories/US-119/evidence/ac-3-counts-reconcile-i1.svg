@@ -34,7 +34,7 @@
     <line x1="616" y1="336" x2="1116" y2="336" stroke="#e5e5e5"/>
     
     <text x="56" y="374" font-size="13" fill="#444">Owner</text>
-    <text x="56" y="398" font-size="16" fill="#181818">Rudolf AI Tester</text>
+    <text x="56" y="398" font-size="16" fill="#181818">QA tester (AI)</text>
     <line x1="56" y1="410" x2="556" y2="410" stroke="#e5e5e5"/>
     
     <text x="616" y="374" font-size="13" fill="#444">Priority</text>
@@ -42,7 +42,7 @@
     <line x1="616" y1="410" x2="1116" y2="410" stroke="#e5e5e5"/>
     
     <text x="56" y="448" font-size="13" fill="#444">Last Modified By</text>
-    <text x="56" y="472" font-size="16" fill="#181818">Rudolf AI Tester</text>
+    <text x="56" y="472" font-size="16" fill="#181818">QA tester (AI)</text>
     <line x1="56" y1="484" x2="556" y2="484" stroke="#e5e5e5"/>
     
   <rect x="470" y="58" width="340" height="44" rx="6" fill="#2e844a"/><text x="640" y="86" font-size="15" fill="#fff" text-anchor="middle">✓ AC 3: Counts reconcile verified</text>
