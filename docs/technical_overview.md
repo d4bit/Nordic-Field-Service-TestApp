@@ -29,3 +29,8 @@
 - `ViewJobApplianceService` (classes)
 - `ViewJobApplianceServiceTest` (classes)
 - `WorkOrderTrigger` (triggers)
+
+## US-113 Capture the customer signature and photos before completing a job
+- `CaptureCustomerSignatureService` (classes)
+- `CaptureCustomerSignatureServiceTest` (classes)
+- `WorkOrderTrigger` (triggers)

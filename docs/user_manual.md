@@ -103,3 +103,14 @@ You can view the job, appliance history and parts list offline in the Field Serv
 
 - AC 1: View the job, appliance history
 - AC 2: Bulk safe
+
+## Capture the customer signature and photos before completing a job
+You can capture the customer signature and photos before completing a job, so that the work gets done faster and with fewer mistakes.
+
+**Steps**
+1. Open the record in Salesforce.
+2. Work as usual — the behaviour described below happens automatically.
+3. Check the result described below.
+
+- AC 1: Capture the customer signature and photos
+- AC 2: Bulk safe
