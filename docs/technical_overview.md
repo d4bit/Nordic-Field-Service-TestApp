@@ -34,3 +34,8 @@
 - `CaptureCustomerSignatureService` (classes)
 - `CaptureCustomerSignatureServiceTest` (classes)
 - `WorkOrderTrigger` (triggers)
+
+## US-114 Select a reason when a job cannot be completed
+- `SelectReasonJobService` (classes)
+- `SelectReasonJobServiceTest` (classes)
+- `ServiceAppointmentTrigger` (triggers)

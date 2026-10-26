@@ -1,5 +1,6 @@
 # Changelog
 
+- 2026-10-26 — US-114 Select a reason when a job cannot be completed
 - 2026-10-26 — US-113 Capture the customer signature and photos before completing a job
 - 2026-10-26 — US-112 View the job, appliance history and parts list offline
 - 2026-10-26 — US-109 Appointments are never scheduled outside the technician’s working hours
