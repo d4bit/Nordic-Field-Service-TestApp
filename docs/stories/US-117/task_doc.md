@@ -1,5 +1,5 @@
 # US-117: Active customers and their appliances are migrated from the legacy ServiceMax system
-**Status:** Release Ready · **Type:** story · **Category:** data migration · **Points:** 5 · **Sprint:** 3
+**Status:** Release Ready · **Type:** story · **Category:** data migration · **Points:** 3 · **Sprint:** 1
 
 ## Summary
 As a migration lead, I want all active customers (approx. 60,000) and their appliances to be migrated from the legacy ServiceMax system, so that no customer history is lost when we switch systems.
